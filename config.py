@@ -3,8 +3,7 @@ class Config(object):
     TESTING = False
 
 class DevelopmentConfig(Config):
-    SECRET_KEY = "this-is-a-super-secret-key"
-    OPENAI_KEY = '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'
+    OPENAI_KEY = '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'
 
 config = {
     'development': DevelopmentConfig,
