@@ -3,7 +3,7 @@ class Config(object):
     TESTING = False
 
 class DevelopmentConfig(Config):
-    OPENAI_KEY = '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'
+    OPENAI_KEY = ''
 
 config = {
     'development': DevelopmentConfig,
