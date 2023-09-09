@@ -33,10 +33,10 @@ Existem outras  funcionalidades que o Microsoft Azure oferece de computação em
 | PUT: Atualizar um recurso existente |
 | DELETE: Excluir um recurso existente |
 
-## Vídeo de funcionamento da API em Flask
+## Diagrama de funcionamento da API em Flask
 
 ![API_FLASK](https://github.com/risuhoki/HelpTE_API/blob/main/API_FLASK.png?raw=true)
 
-## Vídeo Pitch
+## Vídeo
 
 [![video](https://github.com/risuhoki/HelpTE_API/blob/main/helpte.png?raw=true)](https://www.youtube.com/watch?v=g6m1TLmUnws&ab_channel=matheusgomesmontemurro)
